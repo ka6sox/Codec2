@@ -1,0 +1,4 @@
+schematics codec2_pg1.sch
+output-name codec2
+elements-dir ../pcb-elements/
+skip-m4
